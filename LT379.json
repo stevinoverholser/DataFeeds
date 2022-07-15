@@ -1,0 +1,24 @@
+{
+	"products": [{
+			"sku": "A1-BLK-D1-WT",
+			"image": "https://images.hometownapparel.com/images/307/A1-BLK-D1-WT-LT379.jpg",
+			"link": "https://www.hometownapparel.com/towns/california/costa-mesa/costa-mesa-california-classic-established-mens-cotton-tshirt/black/16522/A1?path=29821_31204_31544&ink=WT",
+			"name": "Costa Mesa California Classic Established Basic T-Shirt",
+			"price": "$12.95"
+		},
+		{
+			"sku": "A1-HNV-D35-00",
+			"image": "https://images.hometownapparel.com/images/307/A1-HNV-D35-00-LT379.jpg",
+			"link": "https://www.hometownapparel.com/towns/california/costa-mesa/costa-mesa-california-color-fade-mens-cotton-tshirt/heather-navy/610558/A1?path=29821_31204_31544&ink=00",
+			"name": "Costa Mesa California Color Fade Basic T-Shirt",
+			"price": "$12.95"
+		},
+		{
+			"sku": "A32-ASG-D34-NB",
+			"image": "https://images.hometownapparel.com/images/307/A32-ASG-D34-NB-LT379.jpg",
+			"link": "https://www.hometownapparel.com/towns/california/costa-mesa/costa-mesa-california-star-mens-premium-tshirt/athletic-sport-gray/580006/A32?path=29821_31204_31544&ink=NB&ink=NB",
+			"name": "Costa Mesa California Star Premium T-Shirt",
+			"price": "$28.00"
+		}
+	]
+}
