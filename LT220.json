@@ -1,0 +1,24 @@
+{
+	"products": [{
+			"sku": "A1-BLK-D1-WT",
+			"image": "https://images.hometownapparel.com/images/307/A1-BLK-D1-WT-LT220.jpg",
+			"link": "https://www.hometownapparel.com/towns/colorado/fort-collins/fort-collins-colorado-classic-established-mens-cotton-tshirt/black/8086/A1?path=29821_31215_31439&ink=WT",
+			"name": "Fort Collins Colorado Classic Established Basic T-Shirt",
+			"price": "$12.95"
+		},
+		{
+			"sku": "A1-HNV-D35-00",
+			"image": "https://images.hometownapparel.com/images/307/A1-HNV-D35-00-LT220.jpg",
+			"link": "https://www.hometownapparel.com/towns/colorado/fort-collins/fort-collins-colorado-color-fade-mens-cotton-tshirt/heather-navy/602288/A1?path=29821_31215_31439&ink=00",
+			"name": "Fort Collins Colorado Color Fade Basic T-Shirt",
+			"price": "$12.95"
+		},
+		{
+			"sku": "A32-ASG-D34-NB",
+			"image": "https://images.hometownapparel.com/images/307/A32-ASG-D34-NB-LT220.jpg",
+			"link": "https://www.hometownapparel.com/towns/colorado/fort-collins/fort-collins-colorado-star-mens-premium-tshirt/athletic-sport-gray/571736/A32?path=29821_31215_31439&ink=NB&ink=NB",
+			"name": "Fort Collins Colorado Star Premium T-Shirt",
+			"price": "$28.00"
+		}
+	]
+}
