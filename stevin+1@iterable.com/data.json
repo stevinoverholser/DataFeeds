@@ -1,18 +1,18 @@
 {
 	"recentPurchase": [{
-		"name": "Peanut Butter",
+		"name": "Cookies & Creamy Plant-Based Vegan Shakeology®",
 		"price": 10.00,
-		"image": "https://www.peanutbutter.com/wp-content/uploads/2019/03/SKIPPY_Product_PB_Spread_Creamy_Peanut_Butter_16.3oz.png",
-		"url": "https://www.peanutbutter.com/wp-content/uploads/2019/03/SKIPPY_Product_PB_Spread_Creamy_Peanut_Butter_16.3oz.png"
+		"image": "https://img1.beachbodyimages.com/teambeachbody/image/upload/f_auto,q_auto:eco,w_auto/Teambeachbody/shared_assets/Shop/Shakeology/Shakeology-Cookies-and-Creamy-Vegan/CDP/shk-cookies-crmy-vgn-cdp-640-400-en-us-090821.png",
+		"url": "https://www.teambeachbody.com/shop/us/d/cookies-creamy-plant-based-vegan-shakeology-SHKCookiesandCreamy"
 	}, {
-		"name": "Jelly",
+		"name": "Chocolate Whey Shakeology®",
 		"price": 11.00,
-		"image": "https://p-cdn6consumer.jmsinf.com/tmp/image-thumbnails/smuckers/products/fruit-spreads/image-thumb__5824__auto_e6693d32baf052e87e420f0a090fc806/smckr-strawberry-jelly-18oz-1920x1920.png",
-		"url": "https://p-cdn6consumer.jmsinf.com/tmp/image-thumbnails/smuckers/products/fruit-spreads/image-thumb__5824__auto_e6693d32baf052e87e420f0a090fc806/smckr-strawberry-jelly-18oz-1920x1920.png"
+		"image": "https://img1.beachbodyimages.com/teambeachbody/image/upload/f_auto,q_auto:eco,w_auto/Teambeachbody/shared_assets/Shop/Shakeology/Shakeology%20Chocolate/CDP/shk-choc-whey-cdp-640-400-en-us-123020.png",
+		"url": "https://www.teambeachbody.com/shop/us/d/chocolate-whey-shakeology-SHKChocolate"
 	}, {
-		"name": "Bread",
-		"price": 5.00,
-		"image": "https://i.pinimg.com/originals/6f/5f/53/6f5f5332cd54ba419022a4882935dbd5.png",
-		"url": "https://i.pinimg.com/originals/6f/5f/53/6f5f5332cd54ba419022a4882935dbd5.png"
+		"name": "Vanilla Whey Shakeology®",
+		"price": 15.00,
+		"image": "https://img1.beachbodyimages.com/teambeachbody/image/upload/f_auto,q_auto:eco,w_auto/Teambeachbody/shared_assets/Shop/Shakeology/Shakeology%20Vanilla/CDP/shk-vanilla-whey-cdp-640-400-en-us-123020.png",
+		"url": "https://www.teambeachbody.com/shop/us/d/vanilla-whey-shakeology-SHKVanilla"
 	}]
 }
