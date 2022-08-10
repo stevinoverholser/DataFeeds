@@ -1,5 +1,6 @@
 {
 	"recentPurchaseDisplay" : false,
+	"promoCode":"1234ABCD",
 	"recentPurchase": [{
 		"name": "LIIFT MORE Timeless Tank",
 		"price": 24.00,
