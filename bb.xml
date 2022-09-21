@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ITEMS>
    <ITEM>
-      <PRODUCT_NAME>Performance Stack</PRODUCT_NAME>
+      <PRODUCT_NAME>Shortie Swim Trunks</PRODUCT_NAME>
       <QTY>1</QTY>
-      <ORIGINAL_PRICE>109.95</ORIGINAL_PRICE>
+      <ORIGINAL_PRICE>49.95</ORIGINAL_PRICE>
       <PROMOTION_PRICE />
-      <CURRENT_PRICE>82.46</CURRENT_PRICE>
-      <TOTAL_PRICE>82.46</TOTAL_PRICE>
+      <CURRENT_PRICE>49.95</CURRENT_PRICE>
+      <TOTAL_PRICE>49.95</TOTAL_PRICE>
       <CURRENT_PRICE_TYPE>Preferred Customer</CURRENT_PRICE_TYPE>
       <IS_AUTOSHIP>0</IS_AUTOSHIP>
       <TAX_CODE />
@@ -17,13 +17,13 @@
       <SKU_METADATA4 />
       <SKU_METADATA5 />
       <PV />
-      <THUMBNAIL_IMAGE>https://img1.beachbodyimages.com/teambeachbody/image/upload/f_auto,q_auto:eco,w_auto/Teambeachbody/shared_assets/Shop/Nutrition/Beachbody%20Performance/Beachbody%20Performance%20Stack/Tubs/CDP/Product/bbp-perf-stack-choc-cdp-640-400-en-us-110119.png</THUMBNAIL_IMAGE>
+      <THUMBNAIL_IMAGE>https://s.tea-global.net/mas_assets/cache/image/9/6/7/6/500x-616301.Jpg</THUMBNAIL_IMAGE>
       <ITEM_NUMBER>MDSUBBP2231</ITEM_NUMBER>
       <RETAIL_COMPONENT_TOTAL />
       <PARENT_ITEM_NUMBER />
    </ITEM>
    <ITEM>
-      <PRODUCT_NAME>Beachbody Performance Recharge</PRODUCT_NAME>
+      <PRODUCT_NAME>Mid-Length Swim Trunks</PRODUCT_NAME>
       <QTY>1</QTY>
       <ORIGINAL_PRICE>69.95</ORIGINAL_PRICE>
       <PROMOTION_PRICE>55.96</PROMOTION_PRICE>
@@ -39,7 +39,7 @@
       <SKU_METADATA4 />
       <SKU_METADATA5 />
       <PV />
-      <THUMBNAIL_IMAGE>https://img1.beachbodyimages.com/teambeachbody/image/upload/f_auto,q_auto:eco,w_auto/Teambeachbody/shared_assets/Shop/Nutrition/Beachbody%20Performance/Beachbody-Performance-Recharge/CDP/Product/bbp-recharge-20srv-cdp-640-400-en-us-110119.png</THUMBNAIL_IMAGE>
+      <THUMBNAIL_IMAGE>https://s.tea-global.net/mas_assets/cache/image/9/9/8/6/500x-628844.Jpg</THUMBNAIL_IMAGE>
       <ITEM_NUMBER>MDSUBBP2114</ITEM_NUMBER>
       <RETAIL_COMPONENT_TOTAL />
       <PARENT_ITEM_NUMBER />
