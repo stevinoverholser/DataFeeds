@@ -1,0 +1,39 @@
+{
+	"stores": [{
+			"name": "macys",
+			"cashBack": 10
+		},
+		{
+			"name": "shein",
+			"cashBack": 4
+		},
+		{
+			"name": "ulta",
+			"cashBack": 4
+		},
+		{
+			"name": "nike",
+			"cashBack": 10
+		},
+		{
+			"name": "chewy",
+			"cashBack": 1
+		},
+		{
+			"name": "samsung",
+			"cashBack": 10
+		},
+		{
+			"name": "adidas",
+			"cashBack": 5
+		},
+		{
+			"name": "target",
+			"cashBack": 10
+		},
+		{
+			"name": "walmart",
+			"cashBack": 4
+		}
+	]
+}
