@@ -1,0 +1,18 @@
+{
+	"usageStats": {
+		"mastery": {
+			"alertsShown": "3,670",
+			"percentile": 95
+		},
+		"vocabulary": {
+			"uniqueWordUse": "675",
+			"percentile": 76
+		},
+		"productivity": {
+			"wordsChecked": "78,878",
+			"percentile": 90
+		},
+		"writingStreak": 8,
+		"totalWordsChecked": "1,145,773"
+	}
+}
