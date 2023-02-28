@@ -1,0 +1,27 @@
+{
+ "usageStats": {
+    "mastery": {
+      "alertsShown": "367",
+      "percentile": 80
+    },
+    "vocabulary": {
+      "uniqueWordUse": "4,675",
+      "percentile": 96
+    },
+    "upsellCount": "261",
+    "productivity": {
+      "wordsChecked": "58,878",
+      "percentile": 93
+    },
+    "writingStreak": 15,
+    "totalWordsChecked": "2,177,777"
+  },
+  "itblDS.predictiveGoals.geoPowerUserScore.percentile": 4,
+  "userId": "U12345",
+  "jobTitle": "student",
+  "grammarlyAccount": {
+    "plan": "free",
+    "paid": false,
+    "userType": "individual"
+  }
+}
