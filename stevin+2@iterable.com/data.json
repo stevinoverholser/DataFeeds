@@ -1,20 +1,6 @@
 {
-	"recentPurchaseDisplay" : false,
-	"promoCode":"1234ABCD",
-	"recentPurchase": [{
-		"name": "LIIFT MORE Timeless Tank",
-		"price": 24.00,
-		"image": "https://img1.beachbodyimages.com/teambeachbody/image/upload/f_auto,q_auto:eco,w_auto/Teambeachbody/shared_assets/Shop/Apparel/Branded-Apparel/2022/Women/LIM-W-Timeless-Tank/CDP/lim-w-timeless-tank-front-cdp-640-400-030222.png",
-		"url": "https://www.teambeachbody.com/shop/us/d/liift-more-timeless-tank-LFMTimelessTank"
-	}, {
-		"name": "Joel Relaxed Women's Wrap",
-		"price": 55.00,
-		"image": "https://img1.beachbodyimages.com/teambeachbody/image/upload/f_auto,q_auto:eco,w_auto/Teambeachbody/shared_assets/Shop/Apparel/Branded-Apparel/2022/Women/LIM-W-Signature-Wrap/CDP/lim-w-joel-sign-wrap-front-cdp-640-400-030222.png",
-		"url": "https://www.teambeachbody.com/shop/us/d/joel-relaxed-womens-wrap-LFMSignatureOuterwear"
-	}, {
-		"name": "Joel Relaxed Women's Wrap",
-		"price": 21.00,
-		"image": "https://img1.beachbodyimages.com/teambeachbody/image/upload/f_auto,q_auto:eco,w_auto/Teambeachbody/shared_assets/Shop/Apparel/Branded-Apparel/2022/Women/LIM-W-Joel-Tank/CDP/lim-w-joel-tank-front-cdp-640-400-030222.png",
-		"url": "https://www.teambeachbody.com/shop/us/d/liift-more-dumbbell-tank-LFMSeasonalTank"
-	}]
+"totalPoints": 25,
+	"totalPointsSpent": 100,
+	"totalMoneySaved" : 10,
+	"friendsReferred" : 1
 }
