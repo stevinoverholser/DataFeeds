@@ -1,19 +1,6 @@
 {
-	"recentPurchaseDisplay" : true,
-	"recentPurchase": [{
-		"name": "Cookies & Creamy Plant-Based Vegan Shakeology®",
-		"price": 10.00,
-		"image": "https://img1.beachbodyimages.com/teambeachbody/image/upload/f_auto,q_auto:eco,w_auto/Teambeachbody/shared_assets/Shop/Shakeology/Shakeology-Cookies-and-Creamy-Vegan/CDP/shk-cookies-crmy-vgn-cdp-640-400-en-us-090821.png",
-		"url": "https://www.teambeachbody.com/shop/us/d/cookies-creamy-plant-based-vegan-shakeology-SHKCookiesandCreamy"
-	}, {
-		"name": "Chocolate Whey Shakeology®",
-		"price": 11.00,
-		"image": "https://img1.beachbodyimages.com/teambeachbody/image/upload/f_auto,q_auto:eco,w_auto/Teambeachbody/shared_assets/Shop/Shakeology/Shakeology%20Chocolate/CDP/shk-choc-whey-cdp-640-400-en-us-123020.png",
-		"url": "https://www.teambeachbody.com/shop/us/d/chocolate-whey-shakeology-SHKChocolate"
-	}, {
-		"name": "Vanilla Whey Shakeology®",
-		"price": 15.00,
-		"image": "https://img1.beachbodyimages.com/teambeachbody/image/upload/f_auto,q_auto:eco,w_auto/Teambeachbody/shared_assets/Shop/Shakeology/Shakeology%20Vanilla/CDP/shk-vanilla-whey-cdp-640-400-en-us-123020.png",
-		"url": "https://www.teambeachbody.com/shop/us/d/vanilla-whey-shakeology-SHKVanilla"
-	}]
+"totalPoints": 200,
+	"totalPointsSpent": 500,
+	"totalMoneySaved" : 50,
+	"friendsReferred" : 2
 }
