@@ -1,0 +1,28 @@
+{
+    "queryResults": [
+        {
+            "name": "Pay As You Gig Plan",
+            "carrier": "COX Mobile",
+            "carrierLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cox_Communications_Logo.svg/2560px-Cox_Communications_Logo.svg.png",
+            "mins": "Unlimited",
+            "data": "1GB",
+            "cost": "15"
+        },
+        {
+            "name": "3GB 3-Month Plan",
+            "carrier": "Ultra Mobile",
+            "carrierLogo": "https://pandaecs.com/cdn/shop/products/Ultra_Logo_1000x500_42e2c3b8-e35d-4a38-bebe-01ce205c6fd3_600x600.png?v=1613527116",
+            "mins": "Unlimited",
+            "data": "3GB",
+            "cost": "16"
+        },
+        {
+            "name": "$25 Visible Plan",
+            "carrier": "Visible",
+            "carrierLogo": "https://i.pinimg.com/originals/00/f1/85/00f185aee922c9cd05b3d5b99af9952c.png",
+            "mins": "Unlimited",
+            "data": "Unlimited",
+            "cost": "25"
+        }
+    ]
+}
