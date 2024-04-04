@@ -1,0 +1,19 @@
+{
+    "reccomendations": [
+        {
+            "title": "Demon’s Artifice Series",
+            "genre": "Fantasy",
+            "id": 2031
+        },
+        {
+            "title": "Requiem City",
+            "genre": "Fantasy",
+            "id": 82
+        },
+        {
+            "title": "Gideon",
+            "genre": "Romance",
+            "id": 241
+        }
+    ]
+}
