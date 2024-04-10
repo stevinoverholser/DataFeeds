@@ -5,12 +5,12 @@
             "title": "Day0Campaign",
             "translations": [
                 {"campaignLocale": "en",
-                "titleCopy": "Discover similar stories to {{recentBooksRead.[0].title}} 📚",
+                "titleCopy": "Discover similar stories to",
                 "bodyCopy":"Start Reading now!"    
                 }
                 ,{
                 "campaignLocale": "es",
-                "titleCopy": "Descubre historias similares a {{recentBooksRead.[0].title}} 📚",
+                "titleCopy": "Descubre historias similares a",
                 "bodyCopy":"¡Empiece a leer ahora!"  
                 }
             ]
@@ -18,27 +18,27 @@
         {
             "title": "Day1Campaign",
              "translations": [
-                 {"campaignLocale": "en",
-                "titleCopy": "Discover similar stories to {{recentBooksRead.[0].title}} 📚",
+                {"campaignLocale": "en",
+                "titleCopy": "Discover similar stories to",
                 "bodyCopy":"Start Reading now!"    
                 }
                 ,{
                 "campaignLocale": "es",
-                "titleCopy": "Descubre historias similares a {{recentBooksRead.[0].title}} 📚",
+                "titleCopy": "Descubre historias similares a",
                 "bodyCopy":"¡Empiece a leer ahora!"  
                 }
             ]
         },
         {
             "title": "PROOF_CAMPAIGN_NAME",
-            "translations": [
+           "translations": [
                 {"campaignLocale": "en",
-                "titleCopy": "Discover similar stories to {{recentBooksRead.[0].title}} 📚",
+                "titleCopy": "Discover similar stories to",
                 "bodyCopy":"Start Reading now!"    
                 }
                 ,{
                 "campaignLocale": "es",
-                "titleCopy": "Descubre historias similares a {{recentBooksRead.[0].title}} 📚",
+                "titleCopy": "Descubre historias similares a",
                 "bodyCopy":"¡Empiece a leer ahora!"  
                 }
             ]
