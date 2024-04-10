@@ -4,12 +4,12 @@
         {
             "title": "Day0Campaign",
             "translations": [
-                {"locale": "en",
+                {"campaignLocale": "en",
                 "titleCopy": "Discover similar stories to {{recentBooksRead.[0].title}} 📚",
                 "bodyCopy":"Start Reading now!"    
                 }
                 ,{
-                "locale": "es",
+                "campaignLocale": "es",
                 "titleCopy": "Descubre historias similares a {{recentBooksRead.[0].title}} 📚",
                 "bodyCopy":"¡Empiece a leer ahora!"  
                 }
@@ -18,12 +18,12 @@
         {
             "title": "Day1Campaign",
              "translations": [
-                 {"locale": "en",
+                 {"campaignLocale": "en",
                 "titleCopy": "Discover similar stories to {{recentBooksRead.[0].title}} 📚",
                 "bodyCopy":"Start Reading now!"    
                 }
                 ,{
-                "locale": "es",
+                "campaignLocale": "es",
                 "titleCopy": "Descubre historias similares a {{recentBooksRead.[0].title}} 📚",
                 "bodyCopy":"¡Empiece a leer ahora!"  
                 }
@@ -32,12 +32,12 @@
         {
             "title": "PROOF_CAMPAIGN_NAME",
             "translations": [
-                {"locale": "en",
+                {"campaignLocale": "en",
                 "titleCopy": "Discover similar stories to {{recentBooksRead.[0].title}} 📚",
                 "bodyCopy":"Start Reading now!"    
                 }
                 ,{
-                "locale": "es",
+                "campaignLocale": "es",
                 "titleCopy": "Descubre historias similares a {{recentBooksRead.[0].title}} 📚",
                 "bodyCopy":"¡Empiece a leer ahora!"  
                 }
