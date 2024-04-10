@@ -1,19 +1,47 @@
 {
-    "reccomendations": [
+    "campaigns": [
+        
         {
-            "title": "Demon’s Artifice Series",
-            "genre": "Fantasy",
-            "id": 2031
+            "title": "Day0Campaign",
+            "translations": [
+                {"locale": "en",
+                "titleCopy": "Discover similar stories to {{recentBooksRead.[0].title}} 📚",
+                "bodyCopy":"Start Reading now!"    
+                }
+                ,{
+                "locale": "es",
+                "titleCopy": "Descubre historias similares a {{recentBooksRead.[0].title}} 📚",
+                "bodyCopy":"¡Empiece a leer ahora!"  
+                }
+            ]
         },
         {
-            "title": "Requiem City",
-            "genre": "Fantasy",
-            "id": 82
+            "title": "Day1Campaign",
+             "translations": [
+                 {"locale": "en",
+                "titleCopy": "Discover similar stories to {{recentBooksRead.[0].title}} 📚",
+                "bodyCopy":"Start Reading now!"    
+                }
+                ,{
+                "locale": "es",
+                "titleCopy": "Descubre historias similares a {{recentBooksRead.[0].title}} 📚",
+                "bodyCopy":"¡Empiece a leer ahora!"  
+                }
+            ]
         },
         {
-            "title": "Gideon",
-            "genre": "Romance",
-            "id": 241
+            "title": "PROOF_CAMPAIGN_NAME",
+            "translations": [
+                {"locale": "en",
+                "titleCopy": "Discover similar stories to {{recentBooksRead.[0].title}} 📚",
+                "bodyCopy":"Start Reading now!"    
+                }
+                ,{
+                "locale": "es",
+                "titleCopy": "Descubre historias similares a {{recentBooksRead.[0].title}} 📚",
+                "bodyCopy":"¡Empiece a leer ahora!"  
+                }
+            ]
         }
     ]
 }
