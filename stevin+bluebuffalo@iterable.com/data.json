@@ -1,0 +1,16 @@
+{
+    "mapBoxImg": "https://library.iterable.com/24/11927/221105bbfc9245e288c51c498f452f5e-screenshot-2024-07-29-at-9.png",
+    "link": "https://bluebuffalo.com/product-finder/cat/dry-food/wilderness/",
+    "stock": [
+        {
+            "store": "Safeway",
+            "stock": true,
+            "link": "https://www.google.com/maps?saddr=37.445908,-122.16162&daddr=2811%20Middlefield%20Rd%2C%20Palo%20Alto%2C%20CA%2094306%2C%20United%20States"
+        },
+        {
+            "store": "Petco",
+            "stock": true,
+            "link": "https://www.google.com/maps?saddr=37.445908,-122.16162&daddr=2811%20Middlefield%20Rd%2C%20Palo%20Alto%2C%20CA%2094306%2C%20United%20States"
+        }
+    ]
+}
